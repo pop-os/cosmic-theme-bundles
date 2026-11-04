@@ -1,0 +1,22 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: cosmic-theme-bundles
+Upstream-Contact: Ashley Wulber <ashley@system76.com>
+Source: https://github.com/pop-os/cosmic-theme-bundles
+
+Files: resources/icons/*
+Copyright: Seth Storm Rosenaa
+Comment: Universe icon themes created for System76.
+License: CC-BY-SA-4.0
+
+Files: resources/backgrounds/seth-*
+Copyright: Seth Storm Rosenaa
+Comment: Background artwork created for System76.
+License: CC-BY-SA-4.0
+
+Files: resources/backgrounds/system76-*
+Copyright: System76 <info@system76.com>
+License: CC-BY-SA-4.0
+
+Files: *
+Copyright: System76 <info@system76.com>
+License: GPL-3.0

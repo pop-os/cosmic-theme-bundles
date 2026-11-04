@@ -1,0 +1,5 @@
+cosmic-theme-bundles (1.0.0) noble; urgency=medium
+
+  * Initial packaging of the built-in COSMIC theme bundles.
+
+ -- Ashley Wulber <ashley@system76.com>  Thu, 29 Oct 2026 18:30:00 -0400

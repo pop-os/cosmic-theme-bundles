@@ -1,0 +1,6 @@
+tar-ignore=.git
+tar-ignore=debian/.debhelper
+tar-ignore=debian/cosmic-theme-bundles
+tar-ignore=debian/debhelper-build-stamp
+tar-ignore=debian/files
+tar-ignore=debian/tmp

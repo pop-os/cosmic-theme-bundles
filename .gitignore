@@ -1,0 +1,10 @@
+/debian/.debhelper/
+/debian/cosmic-theme-bundles/
+/debian/debhelper-build-stamp
+/debian/files
+/debian/tmp/
+/debian/*.debhelper
+/debian/*.substvars
+/*.buildinfo
+/*.changes
+/*.deb

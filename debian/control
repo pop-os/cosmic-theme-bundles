@@ -1,0 +1,22 @@
+Source: cosmic-theme-bundles
+Section: x11
+Priority: optional
+Maintainer: Ashley Wulber <ashley@system76.com>
+Build-Depends:
+    debhelper-compat (= 13),
+    just,
+Standards-Version: 4.6.2
+Homepage: https://github.com/pop-os/cosmic-theme-bundles
+Rules-Requires-Root: no
+
+Package: cosmic-theme-bundles
+Architecture: amd64 arm64
+Depends:
+    ${misc:Depends},
+    cosmic-icons,
+Recommends:
+    fonts-noto-mono,
+    fonts-open-sans,
+Description: Built-in theme bundles for the COSMIC desktop environment
+ Theme, builder, and background presets for the COSMIC desktop environment,
+ together with the backgrounds and icon themes they reference.
