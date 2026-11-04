@@ -25,3 +25,5 @@ When reusing this work please include proper attribution:
 
 Background images are stored with Git LFS. Run `git lfs install` before adding
 or checking out assets, and run `git lfs pull` after cloning.
+
+`just` will list the available recipes.
